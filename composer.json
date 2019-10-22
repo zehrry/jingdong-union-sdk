@@ -1,18 +1,26 @@
 {
-    "name": "zehrry/jingdong-union-sdk",
-    "description": "Third party message push",
-    "authors": [
-        {
-            "name": "Zehrry Xu"
-        }
-    ],
-    "license": "MIT",
-    "require": {
-        "php": ">=5.4"
-    },
-    "autoload": {
-        "psr-4": {
-            "jingdong-union-sdk\\": "src/"
-        }
+  "name": "zehrry/jingdong-union-sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zehrry",
+      "email": "zehrry2012@163.com"
     }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "classmap": [
+    ],
+    "psr-4": {
+      "jingdong-union-sdk\\": "src"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.laravel-china.org"
+    }
+  }
 }
