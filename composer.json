@@ -1,5 +1,5 @@
 {
-    "name": "zehrry/JingdongUnionSDK",
+    "name": "zehrry/jingdong-union-sdk",
     "description": "Third party message push",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zehrry\\JingdongUnionSDK\\": "src/"
+            "zehrry\\jingdong-union-sdk\\": "src/"
         }
     }
 }
