@@ -1,6 +1,7 @@
 {
   "name": "zehrry/jingdong-union-sdk",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "zehrry",
