@@ -14,13 +14,7 @@
     "classmap": [
     ],
     "psr-4": {
-      "jingdong-union-sdk\\": "src"
-    }
-  },
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.laravel-china.org"
+      "HMMedia\\": "src"
     }
   }
 }

@@ -1,5 +1,7 @@
 <?php
 
+namespace HMMedia;
+
 class JdUnionOpenCategoryGoodsGetRequest
 {
 	private $apiParas = array();

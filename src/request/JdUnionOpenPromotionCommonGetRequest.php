@@ -1,5 +1,7 @@
 <?php
 
+namespace HMMedia;
+
 class JdUnionOpenPromotionCommonGetRequest
 {
 	private $apiParas = array();

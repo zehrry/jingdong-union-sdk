@@ -1,5 +1,7 @@
 <?php
 
+namespace HMMedia;
+
 class JdUnionOpenGoodsPromotionGoodsInfoQueryRequest
 {
 	private $apiParas = array();

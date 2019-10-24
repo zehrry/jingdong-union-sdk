@@ -1,5 +1,7 @@
 <?php
 
+namespace HMMedia;
+
 class JdUnionOpenOrderQueryRequest
 {
 	private $apiParas = array();

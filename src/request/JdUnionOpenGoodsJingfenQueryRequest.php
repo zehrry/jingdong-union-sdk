@@ -1,5 +1,7 @@
 <?php
 
+namespace HMMedia;
+
 class JdUnionOpenGoodsJingfenQueryRequest
 {
 	private $apiParas = array();
