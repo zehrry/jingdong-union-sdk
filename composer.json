@@ -1,27 +1,25 @@
 {
-  "name": "zehrry/jingdong-union-sdk",
-  "license": "MIT",
-  "minimum-stability": "dev",
-  "authors": [
-    {
-      "name": "zehrry",
-      "email": "zehrry2012@163.com"
-    }
-  ],
-  "require": {
-    "php": ">=7.0"
-  },
-  "autoload": {
-    "classmap": [
-    ],
-    "psr-4": {
-      "HMMedia\\": "src"
-    }
-  },
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.laravel-china.org"
-    }
-  }
+	"name": "huimeng/jdunionsdk",
+	"description": "京东联盟通用SDK",
+	"version": "1.0.0-dev",
+	"type": "library",
+	"keywords": [
+		"京东联盟"
+	],
+	"homepage": "http://www.zehrry.top",
+	"time": "2019-11-23 23:59:59",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "zehrry",
+			"email": "zehrry@163.com",
+			"homepage": "http://www.zehrry.top",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"huimengsdk\\": "src/"
+		}
+	}
 }
