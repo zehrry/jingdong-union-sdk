@@ -1,6 +1,6 @@
 <?php
 
-namespace HMMedia;
+namespace huimengsdk;
 
 class JdUnionOpenUserPidGetRequest
 {
