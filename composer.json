@@ -19,7 +19,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"huimengsdk\\": "src/"
+			"huimengsdk\\": ["src/","src/request/"]
 		}
 	}
 }
